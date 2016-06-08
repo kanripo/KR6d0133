@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:50:43.902665
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:46
 #+TITLE: 止觀大意
 #+PROPERTY: CBETA_ID T46n1914
 #+PROPERTY: ID KR6d0133
